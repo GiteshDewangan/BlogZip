@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-BlogZip is a feature-rich blogging application built using Vite, React, JavaScript, Tailwind CSS, and Appwrite (BaaS). The application allows users to register, login, and manage their blog posts with ease. Utilizing Redux and RTK, it ensures efficient state management,also it Utilizes React Router for seamless navigation between pages, while TinyMCE powers the text editor for creating rich content. Users can create posts with titles, images, and content, which are then displayed on the home page. Each post can be edited, previewed, marked as active/inactive, or deleted by its author. The app provides a seamless experience for both readers and writers, empowering users to share their thoughts and ideas effortlessly.
+BlogZip is a  blogging application built using Vite-React, JavaScript, Tailwind CSS, and Appwrite (BaaS). The application allows users to register, login, and manage their blog posts with ease. Utilizing Redux and RTK, it ensures efficient state management,also it Utilizes React Router for seamless navigation between pages, while TinyMCE powers the text editor for creating rich content. Users can create posts with titles, images, and content, which are then displayed on the home page. Each post can be edited, previewed, marked as active/inactive, or deleted by its author. The app provides a seamless experience for both readers and writers, empowering users to share their thoughts and ideas effortlessly.
 
 - **User Authentication:** BlogZip features a robust user authentication system, powered by Appwrite. Users can securely register and log in to access the platform's features.
   
