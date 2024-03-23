@@ -76,14 +76,7 @@ function Footer() {
                                         Contact Us
                                     </Link>
                                 </li>
-                                <li>
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Customer Support
-                                    </Link>
-                                </li>
+                              
                             </ul>
                         </div>
                     </div>
