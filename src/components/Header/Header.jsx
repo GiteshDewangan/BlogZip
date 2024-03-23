@@ -44,7 +44,7 @@ function Header() {
           <div className='mr-4'>
             <Link to='/'>
               <div>
-              <Logo imageUrl="https://img.freepik.com/premium-photo/light-background-multi-colored-paper-clips-white-pencil-black-paper-with-words-blog-view-from_380694-6150.jpg?size=626&ext=jpg&ga=GA1.1.1104877433.1709469472&semt=ais" />
+              <Logo imageUrl="https://imgs.search.brave.com/_0sBb4U8PxMw04jvrUuml6OHTVWPA2MwKgcPKKONTYk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZnJlZWltYWdl/cy5jb20vdm1lL2lt/YWdlcy8xLzAvMTA4/Mjc5L3Bvc3RfbG9n/b19wcmV2aWV3Lmpw/Zz9mbXQ" />
               </div>
 
               </Link>
