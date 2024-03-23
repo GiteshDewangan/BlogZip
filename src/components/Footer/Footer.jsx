@@ -33,14 +33,7 @@ function Footer() {
                                         Features
                                     </Link>
                                 </li>
-                                <li className="mb-4">
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Pricing
-                                    </Link>
-                                </li>
+                                
                                 <li className="mb-4">
                                     <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
@@ -49,14 +42,7 @@ function Footer() {
                                         Affiliate Program
                                     </Link>
                                 </li>
-                                <li>
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Press Kit
-                                    </Link>
-                                </li>
+                               
                             </ul>
                         </div>
                     </div>
